@@ -1,0 +1,2 @@
+webpackJsonp([0xc1658d68ad40f000],{"./node_modules/json-loader/index.js!./.cache/json/tags-java-script.json":function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/posts/2017/07/21/building-a-blog-with-gatsby-js-pt-1/"},frontmatter:{title:"Building a Blog with Gatsby JS Pt 1"}}}]}},pathContext:{tag:"JavaScript"}}}});
+//# sourceMappingURL=path---tags-java-script-a1c25abd7f902b8a4811.js.map
