@@ -1,2 +1,0 @@
-webpackJsonp([9],{"./node_modules/json-loader/index.js!./.cache/json/tags-react.json":function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/posts/2017/04/21/building-a-blog-with-gatsby-js/"},frontmatter:{title:"Building a Blog with Gatsby JS"}}}]}},pathContext:{tag:"React"}}}});
-//# sourceMappingURL=path---tags-react-52b1057d9b09477a585a.js.map

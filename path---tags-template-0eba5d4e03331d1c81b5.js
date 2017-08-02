@@ -1,2 +1,0 @@
-webpackJsonp([8],{"./node_modules/json-loader/index.js!./.cache/json/tags-template.json":function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/posts/2017/04/21/post-example/"},frontmatter:{title:"Post Example"}}}]}},pathContext:{tag:"template"}}}});
-//# sourceMappingURL=path---tags-template-0eba5d4e03331d1c81b5.js.map
