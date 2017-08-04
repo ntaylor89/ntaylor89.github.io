@@ -1,0 +1,2 @@
+webpackJsonp([0xc1658d68ad40f000],{"./node_modules/json-loader/index.js!./.cache/json/tags-java-script.json":function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/posts/2017/08/02/building-a-blog-with-gatsby-pt-2/"},frontmatter:{title:"Building a Blog with Gatsby Pt 2"}}},{node:{fields:{slug:"/posts/2017/07/21/building-a-blog-with-gatsby-pt-1/"},frontmatter:{title:"Building a Blog with Gatsby Pt 1"}}}]}},pathContext:{tag:"JavaScript"}}}});
+//# sourceMappingURL=path---tags-java-script-4294c48a19e140b19eb1.js.map
