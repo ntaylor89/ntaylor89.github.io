@@ -1,2 +1,0 @@
-webpackJsonp([0xbd6ac06df0c67800],{"./node_modules/json-loader/index.js!./.cache/json/tags-tutorial.json":function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/posts/2017/08/02/building-a-blog-with-gatsby-pt-2/"},frontmatter:{title:"Building a Blog with Gatsby Pt 2"}}},{node:{fields:{slug:"/posts/2017/07/21/building-a-blog-with-gatsby-pt-1/"},frontmatter:{title:"Building a Blog with Gatsby Pt 1"}}}]}},pathContext:{tag:"Tutorial"}}}});
-//# sourceMappingURL=path---tags-tutorial-8c1130f3466d27a66772.js.map
